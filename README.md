@@ -1,0 +1,4 @@
+wudeb
+=====
+
+my debian configure
