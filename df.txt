@@ -1,14 +1,7 @@
 Filesystem                                             1K-blocks     Used Available Use% Mounted on
 rootfs                                                  16529792 10528596   5161516  68% /
 udev                                                       10240        0     10240   0% /dev
-tmpfs                                                     290908      652    290256   1% /run
-/dev/disk/by-uuid/991fffcd-3762-4e9c-be71-88c29c82f310  16529792 10528596   5161516  68% /
 tmpfs                                                       5120        0      5120   0% /run/lock
 tmpfs                                                     524288        0    524288   0% /run/shm
 tmpfs                                                     524288        0    524288   0% /memdir
-/dev/sda12                                              33539872 14509300  17326844  46% /wudev
-/dev/sda11                                              51387012  7160500  41616132  15% /data
-/dev/sda9                                               31227824 12660116  16981380  43% /wuvos
-/dev/sda11                                              51387012  7160500  41616132  15% /testdata
-/dev/sda11                                              51387012  7160500  41616132  15% /testcases
 tmpfs                                                     262144        0    262144   0% /tmp
